@@ -71,7 +71,7 @@ Undersampling is another technique to address class imbalance. Undersampling tak
 
 Cluster centroid undersampling is akin to SMOTE. The algorithm identifies clusters of the majority class, then generates synthetic data points, called centroids, that are representative of the clusters. The majority class is then undersampled down to the size of the minority class.
 
-![cluster_centroids]()
+![cluster_centroids](https://github.com/carloshgalvan95/Credit_Risk_Analysis/blob/main/Resources/cluster_centroids.png)
 
 Nevertheless, any strategy for dealing with imbalance has its drawbacks, and it shows here with an **Accuracy** of **51.93%**.
 
