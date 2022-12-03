@@ -16,5 +16,20 @@ Finally, we will try to tackle the unbalance of the data by using a combination 
 ## Results
 ---
 
+| **Model** | **Accuracy Score**| 
+|-----------|----------------|
+| Naive Random Oversampling       |64.56%|
+| SMOTE Oversapling               |62.34%|
+| ClusterCentroids Undersampling  |51.93%|
+| SMOTEENN Combination Sampling   |65.31%|
+### Naive Random Oversampling
+
+### SMOTE Oversampling
+
+### ClusterCentroids Undersampling
+
+### SMOTEENN Combination Sampling
+
+
 ## Summary
 ---
