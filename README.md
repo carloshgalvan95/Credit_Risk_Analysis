@@ -33,6 +33,7 @@ Finally, we will try to tackle the unbalance of the data by using a combination 
 ![classification_report_naive](https://github.com/carloshgalvan95/Credit_Risk_Analysis/blob/main/Resources/classification_report_naive.png)
 
 ### SMOTE Oversampling
+---
 #### Confusion Matrix
 |                |**Predicted 0**|**Predicted 1**|
 |----------------|---------------|---------------|
@@ -42,6 +43,7 @@ Finally, we will try to tackle the unbalance of the data by using a combination 
 ![classification_report_oversampling](https://github.com/carloshgalvan95/Credit_Risk_Analysis/blob/main/Resources/classification_report_oversampling.png)
 
 ### ClusterCentroids Undersampling
+---
 #### Confusion Matrix
 |                |**Predicted 0**|**Predicted 1**|
 |----------------|---------------|---------------|
@@ -50,6 +52,7 @@ Finally, we will try to tackle the unbalance of the data by using a combination 
 #### Classification Report
 ![classification_report_undersampling](https://github.com/carloshgalvan95/Credit_Risk_Analysis/blob/main/Resources/classification_report_undersampling.png)
 ### SMOTEENN Combination Sampling
+---
 #### Confusion Matrix
 |                |**Predicted 0**|**Predicted 1**|
 |----------------|---------------|---------------|
